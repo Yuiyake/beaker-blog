@@ -1,8 +1,8 @@
 ---
-title: sheji
+title: 单例模式
 date: 2021-05-14
 categories: 
- - sheji
+ - 设计模式
 ---
 ## 单例模式
  - 懒汉式（调用才实例）
